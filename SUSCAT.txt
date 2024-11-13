@@ -1,0 +1,6 @@
+{
+  "name": "SUSCAT",
+  "symbol": "SUSCAT",
+  "description": "SUSCAT is the meme token inspired by that one sneaky cat who’s always up to something! Playful, mysterious, and just a bit suspicious, SUSCAT adds a touch of sass and fun to the Solana blockchain. ",
+  "image": "https://raw.githubusercontent.com/Bigkokxd/SUSCAT/refs/heads/main/logo.png"
+}
